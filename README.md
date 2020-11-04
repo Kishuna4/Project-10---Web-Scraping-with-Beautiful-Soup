@@ -1,2 +1,2 @@
-# Project-10---Web-Scraping-with-Beautiful-Soup
-This activity covers the basics of the Beautiful Soup library
+# Coursera-WebScraping
+Notebooks used in the Web Scraping with Python and BeautifulSoup Coursera guided course
